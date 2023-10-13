@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liu Junjie @jjacobLiu
 - 👀 I'm a fresh explorer in computer science, machine learning, and deep learning.
-- 🌱 I’m currently learning electrical and computer engineering at the UM-SJTU Institute.
+- 🌱 I’m currently learning electrical and computer engineering at UM-SJTU Joint Institute.
 - 📫 Reach me by email: jjacob555432@gmail.com
 
 <!---
