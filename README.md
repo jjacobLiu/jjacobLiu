@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Liu Junjie @jjacobLiu
 - 👀 I'm a fresh explorer in computer science, machine learning, and deep learning.
-- 🌱 I’m currently learning elctrical and computer engineering at the UM-SJTU Institute.
-- 📫 Reach me by email to jjacob555432@gmail.com
+- 🌱 I’m currently learning electrical and computer engineering at the UM-SJTU Institute.
+- 📫 Reach me by email: jjacob555432@gmail.com
 
 <!---
 jjacobLiu/jjacobLiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
