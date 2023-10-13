@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jjacobLiu
-- 👀 I’m interested in machine learning, deep learning, and relative algorithms.
+- 👀 I'm a fresh explorer in computer science, machine learning, and deep learning.
 - 🌱 I’m currently learning elctrical and computer engineering at the UM-SJTU Institute.
 - 📫 Reach me by email to jjacob555432@gmail.com
 
