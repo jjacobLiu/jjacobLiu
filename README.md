@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liu Junjie @jjacobLiu
-- 🌱 I’m a undergraduate learning electrical and computer engineering at UM-SJTU Joint Institute.
+- 🌱 I’m an undergraduate learning electrical and computer engineering at UM-SJTU Joint Institute.
 - 👀 I'm a fresh explorer in computer science, machine learning, and deep learning.
 - 📫 Reach me by email: jjacob555432@gmail.com
 
